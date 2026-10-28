@@ -72,9 +72,8 @@
   right: 5px;
 }
 
-@media (max-width: 500px;) {
+@media (max-width: 600px;) {
   .sidebar {
-    display: none;
     position: none;
   }
   .video-grid {
