@@ -71,7 +71,7 @@
   bottom: 10px;
   right: 5px;
 }
-@media (min-width: 500px;) {
+@media (max-width: 500px;) {
   .sidebar {
     display: none;
   }
