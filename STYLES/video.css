@@ -71,3 +71,12 @@
   bottom: 10px;
   right: 5px;
 }
+@media (min-width: 500px;) {
+  .sidebar {
+    display: none;
+  }
+  .video-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
