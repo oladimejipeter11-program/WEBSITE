@@ -45,10 +45,6 @@
   .video-grid {
     grid-template-columns: 1fr;
   }
-
-  .sidebar {
-    display: none;
-  }
 }
 
 @media (min-width: 751px) and (max-width: 999px) {

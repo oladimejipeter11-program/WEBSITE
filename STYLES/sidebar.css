@@ -31,3 +31,9 @@
   font-family: roboto, arial;
   font-size: 10px;
 }
+
+@media (max-width: 700px) {
+  .sidebar {
+    display: none;
+  }
+}
