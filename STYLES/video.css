@@ -72,13 +72,12 @@
   right: 5px;
 }
 
-@media (max-width: 300px;) {
+@media (max-width: 500px;) {
   .sidebar {
     display: none;
     position: none;
   }
   .video-grid {
-    display: grid;
     grid-template-columns: 1fr;
   }
 }
