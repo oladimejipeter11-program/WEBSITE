@@ -74,6 +74,7 @@
 @media (max-width: 500px;) {
   .sidebar {
     display: none;
+    position: none;
   }
   .video-grid {
     display: grid;
