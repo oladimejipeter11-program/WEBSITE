@@ -12,3 +12,9 @@ body {
   background-color: rgba(241, 233, 233, 0.484);
   border-radius: 3px;
 }
+
+@media (max-width: 700px) {
+  body {
+    padding-left: 0;
+  }
+}
